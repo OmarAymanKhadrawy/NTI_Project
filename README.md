@@ -1,8 +1,5 @@
 # NTI_Project
 
-# SuperMarket sales 
-This dataset contains sales transaction data from a supermarket chain with branches in three major cities: Yangon, Naypyitaw, and Mandalay. The dataset includes information on customer demographics, purchase details, payment methods, and customer satisfaction ratings. Key aspects such as product lines, unit prices, quantities, and total purchase amounts (including tax) are also captured, providing a comprehensive view of sales and customer behavior.
-
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -12,7 +9,7 @@ This dataset contains sales transaction data from a supermarket chain with branc
 5. [Conclusion](#conclusion)
 
 ## Introduction
-This project explores IMDb data to understand trends in movie ratings and popularity using Excel. It helps identify key patterns in the film industry.
+This dataset contains sales transaction data from a supermarket chain with branches in three major cities: Yangon, Naypyitaw, and Mandalay. The dataset includes information on customer demographics, purchase details, payment methods, and customer satisfaction ratings. Key aspects such as product lines, unit prices, quantities, and total purchase amounts (including tax) are also captured, providing a comprehensive view of sales and customer behavior.
 
 ## Column Descriptions
 
