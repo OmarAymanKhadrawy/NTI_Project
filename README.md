@@ -64,7 +64,7 @@ This project explores IMDb data to understand trends in movie ratings and popula
 
 1. **Loading the Dataset**  
    - The dataset was loaded into a pandas DataFrame for easy manipulation.
-
+   
 2. **Handling Missing Values**  
    - Checked for missing or null values in columns such as `Branch`, `Gender`, `Product line`, etc. If any missing data were found, they were either imputed (e.g., with mean values for numeric columns or mode for categorical columns) or removed.
 
@@ -97,8 +97,3 @@ We used Excel for data visualization and statistical analysis. The dataset conta
 
 ## Conclusion
 The analysis provides valuable insights into the trends shaping the film industry. Excel proves to be an effective tool for visualizing such data.
-
-## Usage
-1. Download the dataset.
-2. Open the Excel workbook.
-3. Follow the steps in the instructions tab to replicate the analysis.
