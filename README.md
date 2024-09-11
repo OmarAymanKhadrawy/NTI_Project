@@ -1,4 +1,4 @@
-# NTI_Project
+# Super Market Sales Project
 
 
 ## Table of Contents
