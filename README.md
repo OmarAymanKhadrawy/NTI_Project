@@ -88,17 +88,11 @@ This project explores IMDb data to understand trends in movie ratings and popula
 
 
 ## Data Analysis
-We used Excel for data visualization and statistical analysis. The dataset contains movie titles, ratings, and box office information.
 
 
 ## Insights
-- Movie ratings tend to peak around specific years.
-- Box office success often correlates with certain genres.
+
 
 ## Conclusion
 The analysis provides valuable insights into the trends shaping the film industry. Excel proves to be an effective tool for visualizing such data.
 
-## Usage
-1. Download the dataset.
-2. Open the Excel workbook.
-3. Follow the steps in the instructions tab to replicate the analysis.
