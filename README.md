@@ -94,5 +94,4 @@ This project explores IMDb data to understand trends in movie ratings and popula
 
 
 ## Conclusion
-The analysis provides valuable insights into the trends shaping the film industry. Excel proves to be an effective tool for visualizing such data.
 
