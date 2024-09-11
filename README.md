@@ -1,10 +1,8 @@
 # NTI_Project
+
 # SuperMarket sales 
 This dataset contains sales transaction data from a supermarket chain with branches in three major cities: Yangon, Naypyitaw, and Mandalay. The dataset includes information on customer demographics, purchase details, payment methods, and customer satisfaction ratings. Key aspects such as product lines, unit prices, quantities, and total purchase amounts (including tax) are also captured, providing a comprehensive view of sales and customer behavior.
 
-
-# SuperMarket Sales Project
-For our supermarket sales project, we use Python and Power BI to analyze the dataset. In Python, we handle dataset loading, data wrangling, processing, and cleaning. We then use Power BI to create visualizations that highlight valuable insights and uncover hidden relationships, applying a systematic data analysis pipeline throughout the process
 
 ## Table of Contents
 1. [Introduction](#introduction)
