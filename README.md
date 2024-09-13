@@ -223,4 +223,5 @@ This dataset contains sales transaction data from a supermarket chain with branc
 </p>
 
 ## Conclusion
+The report highlights key insights into customer behavior and sales trends at Infinity Supermarket, with Naypyitaw being the top-performing city. Popular product categories include accessories, food, and beverages, and peak sales occur in the morning and evening. These findings offer strategic opportunities for improving customer satisfaction and boosting revenue.
 
